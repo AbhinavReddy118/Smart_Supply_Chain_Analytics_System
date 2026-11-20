@@ -1,0 +1,36 @@
+# ==============================================================================
+# Smart Supply Chain Analytics System — Foundation Dependencies
+# Phase 1: Project Foundation & Existing Module Requirements
+# ==============================================================================
+
+# Core Numerical & Tabular Data Processing
+# numpy: High-performance vectorized numerical operations and array manipulation
+numpy>=1.26.0,<2.1.0
+
+# pandas: DataFrame data structures, time-series transformations, and dataset I/O
+pandas>=2.2.0,<3.0.0
+
+# openpyxl: Required by pandas for reading and writing Excel (.xlsx) workbooks
+openpyxl>=3.1.2
+
+# Master Data Reconciliation
+# rapidfuzz: High-speed C++ string similarity matching for entity deduplication
+rapidfuzz>=3.6.0
+
+# Scientific Computing & Evaluation Metrics
+# scipy: Scientific computing routines and statistical distributions
+scipy>=1.12.0
+
+# scikit-learn: Preprocessing, cross-validation, and regression evaluation metrics (MAE/RMSE)
+scikit-learn>=1.4.0
+
+# Candidate Forecasting Models (Tabular / Gradient Boosting)
+# xgboost: Extreme Gradient Boosting regression for time-series feature sets
+xgboost>=2.0.3
+
+# lightgbm: Fast histogram-based gradient boosting for multi-series panels
+lightgbm>=4.3.0
+
+# Automated Testing Framework
+# pytest: Industry-standard testing framework to verify configuration and pipelines
+pytest>=8.0.0
