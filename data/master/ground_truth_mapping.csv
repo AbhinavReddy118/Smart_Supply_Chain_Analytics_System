@@ -1,0 +1,556 @@
+entity_type,entity_id,raw_value,canonical_value,variation_type
+Product,SKU_1,product 1,Product 1,lowercase
+Product,SKU_1,PRODUCT 1,Product 1,uppercase
+Product,SKU_1,Product 1 ,Product 1,trailing_whitespace
+Product,SKU_1, Product 1,Product 1,leading_whitespace
+Product,SKU_1,Product  1,Product 1,double_whitespace
+Product,SKU_1,Product-1,Product 1,hyphen_delimiter
+Product,SKU_1,Product_1,Product 1,underscore_delimiter
+Product,SKU_1,Prod 1,Product 1,abbreviation
+Product,SKU_1,Prod. 1,Product 1,abbrev_dot
+Product,SKU_2,product 2,Product 2,lowercase
+Product,SKU_2,PRODUCT 2,Product 2,uppercase
+Product,SKU_2,Product 2 ,Product 2,trailing_whitespace
+Product,SKU_2, Product 2,Product 2,leading_whitespace
+Product,SKU_2,Product  2,Product 2,double_whitespace
+Product,SKU_2,Product-2,Product 2,hyphen_delimiter
+Product,SKU_2,Product_2,Product 2,underscore_delimiter
+Product,SKU_2,Prod 2,Product 2,abbreviation
+Product,SKU_2,Prod. 2,Product 2,abbrev_dot
+Product,SKU_3,product 3,Product 3,lowercase
+Product,SKU_3,PRODUCT 3,Product 3,uppercase
+Product,SKU_3,Product 3 ,Product 3,trailing_whitespace
+Product,SKU_3, Product 3,Product 3,leading_whitespace
+Product,SKU_3,Product  3,Product 3,double_whitespace
+Product,SKU_3,Product-3,Product 3,hyphen_delimiter
+Product,SKU_3,Product_3,Product 3,underscore_delimiter
+Product,SKU_3,Prod 3,Product 3,abbreviation
+Product,SKU_3,Prod. 3,Product 3,abbrev_dot
+Product,SKU_4,product 4,Product 4,lowercase
+Product,SKU_4,PRODUCT 4,Product 4,uppercase
+Product,SKU_4,Product 4 ,Product 4,trailing_whitespace
+Product,SKU_4, Product 4,Product 4,leading_whitespace
+Product,SKU_4,Product  4,Product 4,double_whitespace
+Product,SKU_4,Product-4,Product 4,hyphen_delimiter
+Product,SKU_4,Product_4,Product 4,underscore_delimiter
+Product,SKU_4,Prod 4,Product 4,abbreviation
+Product,SKU_4,Prod. 4,Product 4,abbrev_dot
+Product,SKU_5,product 5,Product 5,lowercase
+Product,SKU_5,PRODUCT 5,Product 5,uppercase
+Product,SKU_5,Product 5 ,Product 5,trailing_whitespace
+Product,SKU_5, Product 5,Product 5,leading_whitespace
+Product,SKU_5,Product  5,Product 5,double_whitespace
+Product,SKU_5,Product-5,Product 5,hyphen_delimiter
+Product,SKU_5,Product_5,Product 5,underscore_delimiter
+Product,SKU_5,Prod 5,Product 5,abbreviation
+Product,SKU_5,Prod. 5,Product 5,abbrev_dot
+Product,SKU_6,product 6,Product 6,lowercase
+Product,SKU_6,PRODUCT 6,Product 6,uppercase
+Product,SKU_6,Product 6 ,Product 6,trailing_whitespace
+Product,SKU_6, Product 6,Product 6,leading_whitespace
+Product,SKU_6,Product  6,Product 6,double_whitespace
+Product,SKU_6,Product-6,Product 6,hyphen_delimiter
+Product,SKU_6,Product_6,Product 6,underscore_delimiter
+Product,SKU_6,Prod 6,Product 6,abbreviation
+Product,SKU_6,Prod. 6,Product 6,abbrev_dot
+Product,SKU_7,product 7,Product 7,lowercase
+Product,SKU_7,PRODUCT 7,Product 7,uppercase
+Product,SKU_7,Product 7 ,Product 7,trailing_whitespace
+Product,SKU_7, Product 7,Product 7,leading_whitespace
+Product,SKU_7,Product  7,Product 7,double_whitespace
+Product,SKU_7,Product-7,Product 7,hyphen_delimiter
+Product,SKU_7,Product_7,Product 7,underscore_delimiter
+Product,SKU_7,Prod 7,Product 7,abbreviation
+Product,SKU_7,Prod. 7,Product 7,abbrev_dot
+Product,SKU_8,product 8,Product 8,lowercase
+Product,SKU_8,PRODUCT 8,Product 8,uppercase
+Product,SKU_8,Product 8 ,Product 8,trailing_whitespace
+Product,SKU_8, Product 8,Product 8,leading_whitespace
+Product,SKU_8,Product  8,Product 8,double_whitespace
+Product,SKU_8,Product-8,Product 8,hyphen_delimiter
+Product,SKU_8,Product_8,Product 8,underscore_delimiter
+Product,SKU_8,Prod 8,Product 8,abbreviation
+Product,SKU_8,Prod. 8,Product 8,abbrev_dot
+Product,SKU_9,product 9,Product 9,lowercase
+Product,SKU_9,PRODUCT 9,Product 9,uppercase
+Product,SKU_9,Product 9 ,Product 9,trailing_whitespace
+Product,SKU_9, Product 9,Product 9,leading_whitespace
+Product,SKU_9,Product  9,Product 9,double_whitespace
+Product,SKU_9,Product-9,Product 9,hyphen_delimiter
+Product,SKU_9,Product_9,Product 9,underscore_delimiter
+Product,SKU_9,Prod 9,Product 9,abbreviation
+Product,SKU_9,Prod. 9,Product 9,abbrev_dot
+Product,SKU_10,product 10,Product 10,lowercase
+Product,SKU_10,PRODUCT 10,Product 10,uppercase
+Product,SKU_10,Product 10 ,Product 10,trailing_whitespace
+Product,SKU_10, Product 10,Product 10,leading_whitespace
+Product,SKU_10,Product  10,Product 10,double_whitespace
+Product,SKU_10,Product-10,Product 10,hyphen_delimiter
+Product,SKU_10,Product_10,Product 10,underscore_delimiter
+Product,SKU_10,Prod 10,Product 10,abbreviation
+Product,SKU_10,Prod. 10,Product 10,abbrev_dot
+Product,SKU_11,product 11,Product 11,lowercase
+Product,SKU_11,PRODUCT 11,Product 11,uppercase
+Product,SKU_11,Product 11 ,Product 11,trailing_whitespace
+Product,SKU_11, Product 11,Product 11,leading_whitespace
+Product,SKU_11,Product  11,Product 11,double_whitespace
+Product,SKU_11,Product-11,Product 11,hyphen_delimiter
+Product,SKU_11,Product_11,Product 11,underscore_delimiter
+Product,SKU_11,Prod 11,Product 11,abbreviation
+Product,SKU_11,Prod. 11,Product 11,abbrev_dot
+Product,SKU_12,product 12,Product 12,lowercase
+Product,SKU_12,PRODUCT 12,Product 12,uppercase
+Product,SKU_12,Product 12 ,Product 12,trailing_whitespace
+Product,SKU_12, Product 12,Product 12,leading_whitespace
+Product,SKU_12,Product  12,Product 12,double_whitespace
+Product,SKU_12,Product-12,Product 12,hyphen_delimiter
+Product,SKU_12,Product_12,Product 12,underscore_delimiter
+Product,SKU_12,Prod 12,Product 12,abbreviation
+Product,SKU_12,Prod. 12,Product 12,abbrev_dot
+Product,SKU_13,product 13,Product 13,lowercase
+Product,SKU_13,PRODUCT 13,Product 13,uppercase
+Product,SKU_13,Product 13 ,Product 13,trailing_whitespace
+Product,SKU_13, Product 13,Product 13,leading_whitespace
+Product,SKU_13,Product  13,Product 13,double_whitespace
+Product,SKU_13,Product-13,Product 13,hyphen_delimiter
+Product,SKU_13,Product_13,Product 13,underscore_delimiter
+Product,SKU_13,Prod 13,Product 13,abbreviation
+Product,SKU_13,Prod. 13,Product 13,abbrev_dot
+Product,SKU_14,product 14,Product 14,lowercase
+Product,SKU_14,PRODUCT 14,Product 14,uppercase
+Product,SKU_14,Product 14 ,Product 14,trailing_whitespace
+Product,SKU_14, Product 14,Product 14,leading_whitespace
+Product,SKU_14,Product  14,Product 14,double_whitespace
+Product,SKU_14,Product-14,Product 14,hyphen_delimiter
+Product,SKU_14,Product_14,Product 14,underscore_delimiter
+Product,SKU_14,Prod 14,Product 14,abbreviation
+Product,SKU_14,Prod. 14,Product 14,abbrev_dot
+Product,SKU_15,product 15,Product 15,lowercase
+Product,SKU_15,PRODUCT 15,Product 15,uppercase
+Product,SKU_15,Product 15 ,Product 15,trailing_whitespace
+Product,SKU_15, Product 15,Product 15,leading_whitespace
+Product,SKU_15,Product  15,Product 15,double_whitespace
+Product,SKU_15,Product-15,Product 15,hyphen_delimiter
+Product,SKU_15,Product_15,Product 15,underscore_delimiter
+Product,SKU_15,Prod 15,Product 15,abbreviation
+Product,SKU_15,Prod. 15,Product 15,abbrev_dot
+Product,SKU_16,product 16,Product 16,lowercase
+Product,SKU_16,PRODUCT 16,Product 16,uppercase
+Product,SKU_16,Product 16 ,Product 16,trailing_whitespace
+Product,SKU_16, Product 16,Product 16,leading_whitespace
+Product,SKU_16,Product  16,Product 16,double_whitespace
+Product,SKU_16,Product-16,Product 16,hyphen_delimiter
+Product,SKU_16,Product_16,Product 16,underscore_delimiter
+Product,SKU_16,Prod 16,Product 16,abbreviation
+Product,SKU_16,Prod. 16,Product 16,abbrev_dot
+Product,SKU_17,product 17,Product 17,lowercase
+Product,SKU_17,PRODUCT 17,Product 17,uppercase
+Product,SKU_17,Product 17 ,Product 17,trailing_whitespace
+Product,SKU_17, Product 17,Product 17,leading_whitespace
+Product,SKU_17,Product  17,Product 17,double_whitespace
+Product,SKU_17,Product-17,Product 17,hyphen_delimiter
+Product,SKU_17,Product_17,Product 17,underscore_delimiter
+Product,SKU_17,Prod 17,Product 17,abbreviation
+Product,SKU_17,Prod. 17,Product 17,abbrev_dot
+Product,SKU_18,product 18,Product 18,lowercase
+Product,SKU_18,PRODUCT 18,Product 18,uppercase
+Product,SKU_18,Product 18 ,Product 18,trailing_whitespace
+Product,SKU_18, Product 18,Product 18,leading_whitespace
+Product,SKU_18,Product  18,Product 18,double_whitespace
+Product,SKU_18,Product-18,Product 18,hyphen_delimiter
+Product,SKU_18,Product_18,Product 18,underscore_delimiter
+Product,SKU_18,Prod 18,Product 18,abbreviation
+Product,SKU_18,Prod. 18,Product 18,abbrev_dot
+Product,SKU_19,product 19,Product 19,lowercase
+Product,SKU_19,PRODUCT 19,Product 19,uppercase
+Product,SKU_19,Product 19 ,Product 19,trailing_whitespace
+Product,SKU_19, Product 19,Product 19,leading_whitespace
+Product,SKU_19,Product  19,Product 19,double_whitespace
+Product,SKU_19,Product-19,Product 19,hyphen_delimiter
+Product,SKU_19,Product_19,Product 19,underscore_delimiter
+Product,SKU_19,Prod 19,Product 19,abbreviation
+Product,SKU_19,Prod. 19,Product 19,abbrev_dot
+Product,SKU_20,product 20,Product 20,lowercase
+Product,SKU_20,PRODUCT 20,Product 20,uppercase
+Product,SKU_20,Product 20 ,Product 20,trailing_whitespace
+Product,SKU_20, Product 20,Product 20,leading_whitespace
+Product,SKU_20,Product  20,Product 20,double_whitespace
+Product,SKU_20,Product-20,Product 20,hyphen_delimiter
+Product,SKU_20,Product_20,Product 20,underscore_delimiter
+Product,SKU_20,Prod 20,Product 20,abbreviation
+Product,SKU_20,Prod. 20,Product 20,abbrev_dot
+Product,SKU_21,product 21,Product 21,lowercase
+Product,SKU_21,PRODUCT 21,Product 21,uppercase
+Product,SKU_21,Product 21 ,Product 21,trailing_whitespace
+Product,SKU_21, Product 21,Product 21,leading_whitespace
+Product,SKU_21,Product  21,Product 21,double_whitespace
+Product,SKU_21,Product-21,Product 21,hyphen_delimiter
+Product,SKU_21,Product_21,Product 21,underscore_delimiter
+Product,SKU_21,Prod 21,Product 21,abbreviation
+Product,SKU_21,Prod. 21,Product 21,abbrev_dot
+Product,SKU_22,product 22,Product 22,lowercase
+Product,SKU_22,PRODUCT 22,Product 22,uppercase
+Product,SKU_22,Product 22 ,Product 22,trailing_whitespace
+Product,SKU_22, Product 22,Product 22,leading_whitespace
+Product,SKU_22,Product  22,Product 22,double_whitespace
+Product,SKU_22,Product-22,Product 22,hyphen_delimiter
+Product,SKU_22,Product_22,Product 22,underscore_delimiter
+Product,SKU_22,Prod 22,Product 22,abbreviation
+Product,SKU_22,Prod. 22,Product 22,abbrev_dot
+Product,SKU_23,product 23,Product 23,lowercase
+Product,SKU_23,PRODUCT 23,Product 23,uppercase
+Product,SKU_23,Product 23 ,Product 23,trailing_whitespace
+Product,SKU_23, Product 23,Product 23,leading_whitespace
+Product,SKU_23,Product  23,Product 23,double_whitespace
+Product,SKU_23,Product-23,Product 23,hyphen_delimiter
+Product,SKU_23,Product_23,Product 23,underscore_delimiter
+Product,SKU_23,Prod 23,Product 23,abbreviation
+Product,SKU_23,Prod. 23,Product 23,abbrev_dot
+Product,SKU_24,product 24,Product 24,lowercase
+Product,SKU_24,PRODUCT 24,Product 24,uppercase
+Product,SKU_24,Product 24 ,Product 24,trailing_whitespace
+Product,SKU_24, Product 24,Product 24,leading_whitespace
+Product,SKU_24,Product  24,Product 24,double_whitespace
+Product,SKU_24,Product-24,Product 24,hyphen_delimiter
+Product,SKU_24,Product_24,Product 24,underscore_delimiter
+Product,SKU_24,Prod 24,Product 24,abbreviation
+Product,SKU_24,Prod. 24,Product 24,abbrev_dot
+Product,SKU_25,product 25,Product 25,lowercase
+Product,SKU_25,PRODUCT 25,Product 25,uppercase
+Product,SKU_25,Product 25 ,Product 25,trailing_whitespace
+Product,SKU_25, Product 25,Product 25,leading_whitespace
+Product,SKU_25,Product  25,Product 25,double_whitespace
+Product,SKU_25,Product-25,Product 25,hyphen_delimiter
+Product,SKU_25,Product_25,Product 25,underscore_delimiter
+Product,SKU_25,Prod 25,Product 25,abbreviation
+Product,SKU_25,Prod. 25,Product 25,abbrev_dot
+Product,SKU_26,product 26,Product 26,lowercase
+Product,SKU_26,PRODUCT 26,Product 26,uppercase
+Product,SKU_26,Product 26 ,Product 26,trailing_whitespace
+Product,SKU_26, Product 26,Product 26,leading_whitespace
+Product,SKU_26,Product  26,Product 26,double_whitespace
+Product,SKU_26,Product-26,Product 26,hyphen_delimiter
+Product,SKU_26,Product_26,Product 26,underscore_delimiter
+Product,SKU_26,Prod 26,Product 26,abbreviation
+Product,SKU_26,Prod. 26,Product 26,abbrev_dot
+Product,SKU_27,product 27,Product 27,lowercase
+Product,SKU_27,PRODUCT 27,Product 27,uppercase
+Product,SKU_27,Product 27 ,Product 27,trailing_whitespace
+Product,SKU_27, Product 27,Product 27,leading_whitespace
+Product,SKU_27,Product  27,Product 27,double_whitespace
+Product,SKU_27,Product-27,Product 27,hyphen_delimiter
+Product,SKU_27,Product_27,Product 27,underscore_delimiter
+Product,SKU_27,Prod 27,Product 27,abbreviation
+Product,SKU_27,Prod. 27,Product 27,abbrev_dot
+Product,SKU_28,product 28,Product 28,lowercase
+Product,SKU_28,PRODUCT 28,Product 28,uppercase
+Product,SKU_28,Product 28 ,Product 28,trailing_whitespace
+Product,SKU_28, Product 28,Product 28,leading_whitespace
+Product,SKU_28,Product  28,Product 28,double_whitespace
+Product,SKU_28,Product-28,Product 28,hyphen_delimiter
+Product,SKU_28,Product_28,Product 28,underscore_delimiter
+Product,SKU_28,Prod 28,Product 28,abbreviation
+Product,SKU_28,Prod. 28,Product 28,abbrev_dot
+Product,SKU_29,product 29,Product 29,lowercase
+Product,SKU_29,PRODUCT 29,Product 29,uppercase
+Product,SKU_29,Product 29 ,Product 29,trailing_whitespace
+Product,SKU_29, Product 29,Product 29,leading_whitespace
+Product,SKU_29,Product  29,Product 29,double_whitespace
+Product,SKU_29,Product-29,Product 29,hyphen_delimiter
+Product,SKU_29,Product_29,Product 29,underscore_delimiter
+Product,SKU_29,Prod 29,Product 29,abbreviation
+Product,SKU_29,Prod. 29,Product 29,abbrev_dot
+Product,SKU_30,product 30,Product 30,lowercase
+Product,SKU_30,PRODUCT 30,Product 30,uppercase
+Product,SKU_30,Product 30 ,Product 30,trailing_whitespace
+Product,SKU_30, Product 30,Product 30,leading_whitespace
+Product,SKU_30,Product  30,Product 30,double_whitespace
+Product,SKU_30,Product-30,Product 30,hyphen_delimiter
+Product,SKU_30,Product_30,Product 30,underscore_delimiter
+Product,SKU_30,Prod 30,Product 30,abbreviation
+Product,SKU_30,Prod. 30,Product 30,abbrev_dot
+Product,SKU_31,product 31,Product 31,lowercase
+Product,SKU_31,PRODUCT 31,Product 31,uppercase
+Product,SKU_31,Product 31 ,Product 31,trailing_whitespace
+Product,SKU_31, Product 31,Product 31,leading_whitespace
+Product,SKU_31,Product  31,Product 31,double_whitespace
+Product,SKU_31,Product-31,Product 31,hyphen_delimiter
+Product,SKU_31,Product_31,Product 31,underscore_delimiter
+Product,SKU_31,Prod 31,Product 31,abbreviation
+Product,SKU_31,Prod. 31,Product 31,abbrev_dot
+Product,SKU_32,product 32,Product 32,lowercase
+Product,SKU_32,PRODUCT 32,Product 32,uppercase
+Product,SKU_32,Product 32 ,Product 32,trailing_whitespace
+Product,SKU_32, Product 32,Product 32,leading_whitespace
+Product,SKU_32,Product  32,Product 32,double_whitespace
+Product,SKU_32,Product-32,Product 32,hyphen_delimiter
+Product,SKU_32,Product_32,Product 32,underscore_delimiter
+Product,SKU_32,Prod 32,Product 32,abbreviation
+Product,SKU_32,Prod. 32,Product 32,abbrev_dot
+Product,SKU_33,product 33,Product 33,lowercase
+Product,SKU_33,PRODUCT 33,Product 33,uppercase
+Product,SKU_33,Product 33 ,Product 33,trailing_whitespace
+Product,SKU_33, Product 33,Product 33,leading_whitespace
+Product,SKU_33,Product  33,Product 33,double_whitespace
+Product,SKU_33,Product-33,Product 33,hyphen_delimiter
+Product,SKU_33,Product_33,Product 33,underscore_delimiter
+Product,SKU_33,Prod 33,Product 33,abbreviation
+Product,SKU_33,Prod. 33,Product 33,abbrev_dot
+Product,SKU_34,product 34,Product 34,lowercase
+Product,SKU_34,PRODUCT 34,Product 34,uppercase
+Product,SKU_34,Product 34 ,Product 34,trailing_whitespace
+Product,SKU_34, Product 34,Product 34,leading_whitespace
+Product,SKU_34,Product  34,Product 34,double_whitespace
+Product,SKU_34,Product-34,Product 34,hyphen_delimiter
+Product,SKU_34,Product_34,Product 34,underscore_delimiter
+Product,SKU_34,Prod 34,Product 34,abbreviation
+Product,SKU_34,Prod. 34,Product 34,abbrev_dot
+Product,SKU_35,product 35,Product 35,lowercase
+Product,SKU_35,PRODUCT 35,Product 35,uppercase
+Product,SKU_35,Product 35 ,Product 35,trailing_whitespace
+Product,SKU_35, Product 35,Product 35,leading_whitespace
+Product,SKU_35,Product  35,Product 35,double_whitespace
+Product,SKU_35,Product-35,Product 35,hyphen_delimiter
+Product,SKU_35,Product_35,Product 35,underscore_delimiter
+Product,SKU_35,Prod 35,Product 35,abbreviation
+Product,SKU_35,Prod. 35,Product 35,abbrev_dot
+Product,SKU_36,product 36,Product 36,lowercase
+Product,SKU_36,PRODUCT 36,Product 36,uppercase
+Product,SKU_36,Product 36 ,Product 36,trailing_whitespace
+Product,SKU_36, Product 36,Product 36,leading_whitespace
+Product,SKU_36,Product  36,Product 36,double_whitespace
+Product,SKU_36,Product-36,Product 36,hyphen_delimiter
+Product,SKU_36,Product_36,Product 36,underscore_delimiter
+Product,SKU_36,Prod 36,Product 36,abbreviation
+Product,SKU_36,Prod. 36,Product 36,abbrev_dot
+Product,SKU_37,product 37,Product 37,lowercase
+Product,SKU_37,PRODUCT 37,Product 37,uppercase
+Product,SKU_37,Product 37 ,Product 37,trailing_whitespace
+Product,SKU_37, Product 37,Product 37,leading_whitespace
+Product,SKU_37,Product  37,Product 37,double_whitespace
+Product,SKU_37,Product-37,Product 37,hyphen_delimiter
+Product,SKU_37,Product_37,Product 37,underscore_delimiter
+Product,SKU_37,Prod 37,Product 37,abbreviation
+Product,SKU_37,Prod. 37,Product 37,abbrev_dot
+Product,SKU_38,product 38,Product 38,lowercase
+Product,SKU_38,PRODUCT 38,Product 38,uppercase
+Product,SKU_38,Product 38 ,Product 38,trailing_whitespace
+Product,SKU_38, Product 38,Product 38,leading_whitespace
+Product,SKU_38,Product  38,Product 38,double_whitespace
+Product,SKU_38,Product-38,Product 38,hyphen_delimiter
+Product,SKU_38,Product_38,Product 38,underscore_delimiter
+Product,SKU_38,Prod 38,Product 38,abbreviation
+Product,SKU_38,Prod. 38,Product 38,abbrev_dot
+Product,SKU_39,product 39,Product 39,lowercase
+Product,SKU_39,PRODUCT 39,Product 39,uppercase
+Product,SKU_39,Product 39 ,Product 39,trailing_whitespace
+Product,SKU_39, Product 39,Product 39,leading_whitespace
+Product,SKU_39,Product  39,Product 39,double_whitespace
+Product,SKU_39,Product-39,Product 39,hyphen_delimiter
+Product,SKU_39,Product_39,Product 39,underscore_delimiter
+Product,SKU_39,Prod 39,Product 39,abbreviation
+Product,SKU_39,Prod. 39,Product 39,abbrev_dot
+Product,SKU_40,product 40,Product 40,lowercase
+Product,SKU_40,PRODUCT 40,Product 40,uppercase
+Product,SKU_40,Product 40 ,Product 40,trailing_whitespace
+Product,SKU_40, Product 40,Product 40,leading_whitespace
+Product,SKU_40,Product  40,Product 40,double_whitespace
+Product,SKU_40,Product-40,Product 40,hyphen_delimiter
+Product,SKU_40,Product_40,Product 40,underscore_delimiter
+Product,SKU_40,Prod 40,Product 40,abbreviation
+Product,SKU_40,Prod. 40,Product 40,abbrev_dot
+Product,SKU_41,product 41,Product 41,lowercase
+Product,SKU_41,PRODUCT 41,Product 41,uppercase
+Product,SKU_41,Product 41 ,Product 41,trailing_whitespace
+Product,SKU_41, Product 41,Product 41,leading_whitespace
+Product,SKU_41,Product  41,Product 41,double_whitespace
+Product,SKU_41,Product-41,Product 41,hyphen_delimiter
+Product,SKU_41,Product_41,Product 41,underscore_delimiter
+Product,SKU_41,Prod 41,Product 41,abbreviation
+Product,SKU_41,Prod. 41,Product 41,abbrev_dot
+Product,SKU_42,product 42,Product 42,lowercase
+Product,SKU_42,PRODUCT 42,Product 42,uppercase
+Product,SKU_42,Product 42 ,Product 42,trailing_whitespace
+Product,SKU_42, Product 42,Product 42,leading_whitespace
+Product,SKU_42,Product  42,Product 42,double_whitespace
+Product,SKU_42,Product-42,Product 42,hyphen_delimiter
+Product,SKU_42,Product_42,Product 42,underscore_delimiter
+Product,SKU_42,Prod 42,Product 42,abbreviation
+Product,SKU_42,Prod. 42,Product 42,abbrev_dot
+Product,SKU_43,product 43,Product 43,lowercase
+Product,SKU_43,PRODUCT 43,Product 43,uppercase
+Product,SKU_43,Product 43 ,Product 43,trailing_whitespace
+Product,SKU_43, Product 43,Product 43,leading_whitespace
+Product,SKU_43,Product  43,Product 43,double_whitespace
+Product,SKU_43,Product-43,Product 43,hyphen_delimiter
+Product,SKU_43,Product_43,Product 43,underscore_delimiter
+Product,SKU_43,Prod 43,Product 43,abbreviation
+Product,SKU_43,Prod. 43,Product 43,abbrev_dot
+Product,SKU_44,product 44,Product 44,lowercase
+Product,SKU_44,PRODUCT 44,Product 44,uppercase
+Product,SKU_44,Product 44 ,Product 44,trailing_whitespace
+Product,SKU_44, Product 44,Product 44,leading_whitespace
+Product,SKU_44,Product  44,Product 44,double_whitespace
+Product,SKU_44,Product-44,Product 44,hyphen_delimiter
+Product,SKU_44,Product_44,Product 44,underscore_delimiter
+Product,SKU_44,Prod 44,Product 44,abbreviation
+Product,SKU_44,Prod. 44,Product 44,abbrev_dot
+Product,SKU_45,product 45,Product 45,lowercase
+Product,SKU_45,PRODUCT 45,Product 45,uppercase
+Product,SKU_45,Product 45 ,Product 45,trailing_whitespace
+Product,SKU_45, Product 45,Product 45,leading_whitespace
+Product,SKU_45,Product  45,Product 45,double_whitespace
+Product,SKU_45,Product-45,Product 45,hyphen_delimiter
+Product,SKU_45,Product_45,Product 45,underscore_delimiter
+Product,SKU_45,Prod 45,Product 45,abbreviation
+Product,SKU_45,Prod. 45,Product 45,abbrev_dot
+Product,SKU_46,product 46,Product 46,lowercase
+Product,SKU_46,PRODUCT 46,Product 46,uppercase
+Product,SKU_46,Product 46 ,Product 46,trailing_whitespace
+Product,SKU_46, Product 46,Product 46,leading_whitespace
+Product,SKU_46,Product  46,Product 46,double_whitespace
+Product,SKU_46,Product-46,Product 46,hyphen_delimiter
+Product,SKU_46,Product_46,Product 46,underscore_delimiter
+Product,SKU_46,Prod 46,Product 46,abbreviation
+Product,SKU_46,Prod. 46,Product 46,abbrev_dot
+Product,SKU_47,product 47,Product 47,lowercase
+Product,SKU_47,PRODUCT 47,Product 47,uppercase
+Product,SKU_47,Product 47 ,Product 47,trailing_whitespace
+Product,SKU_47, Product 47,Product 47,leading_whitespace
+Product,SKU_47,Product  47,Product 47,double_whitespace
+Product,SKU_47,Product-47,Product 47,hyphen_delimiter
+Product,SKU_47,Product_47,Product 47,underscore_delimiter
+Product,SKU_47,Prod 47,Product 47,abbreviation
+Product,SKU_47,Prod. 47,Product 47,abbrev_dot
+Product,SKU_48,product 48,Product 48,lowercase
+Product,SKU_48,PRODUCT 48,Product 48,uppercase
+Product,SKU_48,Product 48 ,Product 48,trailing_whitespace
+Product,SKU_48, Product 48,Product 48,leading_whitespace
+Product,SKU_48,Product  48,Product 48,double_whitespace
+Product,SKU_48,Product-48,Product 48,hyphen_delimiter
+Product,SKU_48,Product_48,Product 48,underscore_delimiter
+Product,SKU_48,Prod 48,Product 48,abbreviation
+Product,SKU_48,Prod. 48,Product 48,abbrev_dot
+Product,SKU_49,product 49,Product 49,lowercase
+Product,SKU_49,PRODUCT 49,Product 49,uppercase
+Product,SKU_49,Product 49 ,Product 49,trailing_whitespace
+Product,SKU_49, Product 49,Product 49,leading_whitespace
+Product,SKU_49,Product  49,Product 49,double_whitespace
+Product,SKU_49,Product-49,Product 49,hyphen_delimiter
+Product,SKU_49,Product_49,Product 49,underscore_delimiter
+Product,SKU_49,Prod 49,Product 49,abbreviation
+Product,SKU_49,Prod. 49,Product 49,abbrev_dot
+Product,SKU_50,product 50,Product 50,lowercase
+Product,SKU_50,PRODUCT 50,Product 50,uppercase
+Product,SKU_50,Product 50 ,Product 50,trailing_whitespace
+Product,SKU_50, Product 50,Product 50,leading_whitespace
+Product,SKU_50,Product  50,Product 50,double_whitespace
+Product,SKU_50,Product-50,Product 50,hyphen_delimiter
+Product,SKU_50,Product_50,Product 50,underscore_delimiter
+Product,SKU_50,Prod 50,Product 50,abbreviation
+Product,SKU_50,Prod. 50,Product 50,abbrev_dot
+Supplier,SUP_1,supplier 1,Supplier 1,lowercase
+Supplier,SUP_1,SUPPLIER 1,Supplier 1,uppercase
+Supplier,SUP_1,Supplier 1 ,Supplier 1,trailing_whitespace
+Supplier,SUP_1,Supplier-1,Supplier 1,hyphen_delimiter
+Supplier,SUP_1,Supplier_1,Supplier 1,underscore_delimiter
+Supplier,SUP_1,Supp 1,Supplier 1,abbreviation
+Supplier,SUP_1,Supp. 1,Supplier 1,abbrev_dot
+Supplier,SUP_2,supplier 2,Supplier 2,lowercase
+Supplier,SUP_2,SUPPLIER 2,Supplier 2,uppercase
+Supplier,SUP_2,Supplier 2 ,Supplier 2,trailing_whitespace
+Supplier,SUP_2,Supplier-2,Supplier 2,hyphen_delimiter
+Supplier,SUP_2,Supplier_2,Supplier 2,underscore_delimiter
+Supplier,SUP_2,Supp 2,Supplier 2,abbreviation
+Supplier,SUP_2,Supp. 2,Supplier 2,abbrev_dot
+Supplier,SUP_3,supplier 3,Supplier 3,lowercase
+Supplier,SUP_3,SUPPLIER 3,Supplier 3,uppercase
+Supplier,SUP_3,Supplier 3 ,Supplier 3,trailing_whitespace
+Supplier,SUP_3,Supplier-3,Supplier 3,hyphen_delimiter
+Supplier,SUP_3,Supplier_3,Supplier 3,underscore_delimiter
+Supplier,SUP_3,Supp 3,Supplier 3,abbreviation
+Supplier,SUP_3,Supp. 3,Supplier 3,abbrev_dot
+Supplier,SUP_4,supplier 4,Supplier 4,lowercase
+Supplier,SUP_4,SUPPLIER 4,Supplier 4,uppercase
+Supplier,SUP_4,Supplier 4 ,Supplier 4,trailing_whitespace
+Supplier,SUP_4,Supplier-4,Supplier 4,hyphen_delimiter
+Supplier,SUP_4,Supplier_4,Supplier 4,underscore_delimiter
+Supplier,SUP_4,Supp 4,Supplier 4,abbreviation
+Supplier,SUP_4,Supp. 4,Supplier 4,abbrev_dot
+Supplier,SUP_5,supplier 5,Supplier 5,lowercase
+Supplier,SUP_5,SUPPLIER 5,Supplier 5,uppercase
+Supplier,SUP_5,Supplier 5 ,Supplier 5,trailing_whitespace
+Supplier,SUP_5,Supplier-5,Supplier 5,hyphen_delimiter
+Supplier,SUP_5,Supplier_5,Supplier 5,underscore_delimiter
+Supplier,SUP_5,Supp 5,Supplier 5,abbreviation
+Supplier,SUP_5,Supp. 5,Supplier 5,abbrev_dot
+Supplier,SUP_6,supplier 6,Supplier 6,lowercase
+Supplier,SUP_6,SUPPLIER 6,Supplier 6,uppercase
+Supplier,SUP_6,Supplier 6 ,Supplier 6,trailing_whitespace
+Supplier,SUP_6,Supplier-6,Supplier 6,hyphen_delimiter
+Supplier,SUP_6,Supplier_6,Supplier 6,underscore_delimiter
+Supplier,SUP_6,Supp 6,Supplier 6,abbreviation
+Supplier,SUP_6,Supp. 6,Supplier 6,abbrev_dot
+Supplier,SUP_7,supplier 7,Supplier 7,lowercase
+Supplier,SUP_7,SUPPLIER 7,Supplier 7,uppercase
+Supplier,SUP_7,Supplier 7 ,Supplier 7,trailing_whitespace
+Supplier,SUP_7,Supplier-7,Supplier 7,hyphen_delimiter
+Supplier,SUP_7,Supplier_7,Supplier 7,underscore_delimiter
+Supplier,SUP_7,Supp 7,Supplier 7,abbreviation
+Supplier,SUP_7,Supp. 7,Supplier 7,abbrev_dot
+Supplier,SUP_8,supplier 8,Supplier 8,lowercase
+Supplier,SUP_8,SUPPLIER 8,Supplier 8,uppercase
+Supplier,SUP_8,Supplier 8 ,Supplier 8,trailing_whitespace
+Supplier,SUP_8,Supplier-8,Supplier 8,hyphen_delimiter
+Supplier,SUP_8,Supplier_8,Supplier 8,underscore_delimiter
+Supplier,SUP_8,Supp 8,Supplier 8,abbreviation
+Supplier,SUP_8,Supp. 8,Supplier 8,abbrev_dot
+Supplier,SUP_9,supplier 9,Supplier 9,lowercase
+Supplier,SUP_9,SUPPLIER 9,Supplier 9,uppercase
+Supplier,SUP_9,Supplier 9 ,Supplier 9,trailing_whitespace
+Supplier,SUP_9,Supplier-9,Supplier 9,hyphen_delimiter
+Supplier,SUP_9,Supplier_9,Supplier 9,underscore_delimiter
+Supplier,SUP_9,Supp 9,Supplier 9,abbreviation
+Supplier,SUP_9,Supp. 9,Supplier 9,abbrev_dot
+Supplier,SUP_10,supplier 10,Supplier 10,lowercase
+Supplier,SUP_10,SUPPLIER 10,Supplier 10,uppercase
+Supplier,SUP_10,Supplier 10 ,Supplier 10,trailing_whitespace
+Supplier,SUP_10,Supplier-10,Supplier 10,hyphen_delimiter
+Supplier,SUP_10,Supplier_10,Supplier 10,underscore_delimiter
+Supplier,SUP_10,Supp 10,Supplier 10,abbreviation
+Supplier,SUP_10,Supp. 10,Supplier 10,abbrev_dot
+Warehouse,WH_1,warehouse 1,Warehouse 1,lowercase
+Warehouse,WH_1,WAREHOUSE 1,Warehouse 1,uppercase
+Warehouse,WH_1,Warehouse 1 ,Warehouse 1,trailing_whitespace
+Warehouse,WH_1,Warehouse-1,Warehouse 1,hyphen_delimiter
+Warehouse,WH_1,WH 1,Warehouse 1,abbreviation_wh
+Warehouse,WH_1,WH-1,Warehouse 1,abbreviation_wh_hyphen
+Warehouse,WH_1,WH_1,Warehouse 1,abbreviation_wh_underscore
+Warehouse,WH_2,warehouse 2,Warehouse 2,lowercase
+Warehouse,WH_2,WAREHOUSE 2,Warehouse 2,uppercase
+Warehouse,WH_2,Warehouse 2 ,Warehouse 2,trailing_whitespace
+Warehouse,WH_2,Warehouse-2,Warehouse 2,hyphen_delimiter
+Warehouse,WH_2,WH 2,Warehouse 2,abbreviation_wh
+Warehouse,WH_2,WH-2,Warehouse 2,abbreviation_wh_hyphen
+Warehouse,WH_2,WH_2,Warehouse 2,abbreviation_wh_underscore
+Warehouse,WH_3,warehouse 3,Warehouse 3,lowercase
+Warehouse,WH_3,WAREHOUSE 3,Warehouse 3,uppercase
+Warehouse,WH_3,Warehouse 3 ,Warehouse 3,trailing_whitespace
+Warehouse,WH_3,Warehouse-3,Warehouse 3,hyphen_delimiter
+Warehouse,WH_3,WH 3,Warehouse 3,abbreviation_wh
+Warehouse,WH_3,WH-3,Warehouse 3,abbreviation_wh_hyphen
+Warehouse,WH_3,WH_3,Warehouse 3,abbreviation_wh_underscore
+Warehouse,WH_4,warehouse 4,Warehouse 4,lowercase
+Warehouse,WH_4,WAREHOUSE 4,Warehouse 4,uppercase
+Warehouse,WH_4,Warehouse 4 ,Warehouse 4,trailing_whitespace
+Warehouse,WH_4,Warehouse-4,Warehouse 4,hyphen_delimiter
+Warehouse,WH_4,WH 4,Warehouse 4,abbreviation_wh
+Warehouse,WH_4,WH-4,Warehouse 4,abbreviation_wh_hyphen
+Warehouse,WH_4,WH_4,Warehouse 4,abbreviation_wh_underscore
+Warehouse,WH_5,warehouse 5,Warehouse 5,lowercase
+Warehouse,WH_5,WAREHOUSE 5,Warehouse 5,uppercase
+Warehouse,WH_5,Warehouse 5 ,Warehouse 5,trailing_whitespace
+Warehouse,WH_5,Warehouse-5,Warehouse 5,hyphen_delimiter
+Warehouse,WH_5,WH 5,Warehouse 5,abbreviation_wh
+Warehouse,WH_5,WH-5,Warehouse 5,abbreviation_wh_hyphen
+Warehouse,WH_5,WH_5,Warehouse 5,abbreviation_wh_underscore
