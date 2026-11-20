@@ -1,0 +1,20 @@
+Audit Dimension,Raw Branch,Reconciled Branch,Evaluation
+1. Number of Rows,91250,91250,Equal / Balanced
+2. Number of Columns,20,20,Equal / 20 Columns
+3. Date Range,2024-01-01 to 2024-12-30,2024-01-01 to 2024-12-30,365 continuous days
+4. Number of Unique SKUs,50,50,50 SKUs
+5. Number of Unique Warehouses,5,5,5 Warehouses
+6. SKU-Warehouse Combinations,250,250,250 Unique Series
+7. Obs per Combination,365,365,Exactly 365 daily observations
+8. Missing Values,0,0,0 Missing Values (100% complete)
+9. Duplicate Rows,0,0,0 Exact Duplicate Rows
+10. Units_Sold Range & Mean,"Min: 0, Max: 59, Mean: 20.0546","Min: 0, Max: 59, Mean: 20.0546",Identical distribution
+11. Zero-Demand Observations,620 (0.68%),620 (0.68%),Low intermittency (0.68%)
+12. Continuous Daily Observations,True,True,100% Continuous (No date gaps)
+13. Identical Operational Demand,Identical,Identical,"Units_Sold identical across all 91,250 rows"
+14. Forecasting Grain,Date + SKU_ID + Warehouse_ID,Date + SKU_ID + Warehouse_ID,Preserves facility & SKU detail
+15. Chronological Train Period (80%),2024-01-01 to 2024-10-18 (292 days),2024-01-01 to 2024-10-18 (292 days),"73,000 train records"
+16. Chronological Test Period (20%),2024-10-19 to 2024-12-30 (73 days),2024-10-19 to 2024-12-30 (73 days),"18,250 test records"
+17. Naive Baseline MAE (t-1),5.9231,5.9231,Benchmark baseline
+18. Naive Baseline RMSE (t-1),7.4760,7.4760,Benchmark baseline
+19. Naive Baseline MAPE (%),58.30%,58.30%,Benchmark baseline (WAPE: 40.81%)
