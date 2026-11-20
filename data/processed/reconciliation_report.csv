@@ -1,0 +1,9 @@
+Metric,Value,Description
+Total Raw Master Records Audited,620,Total distinct master records evaluated
+Clean Baseline Records,65,Canonical records already in standard format
+Inconsistent Records Requiring Reconciliation,555,Intentionally generated noisy master records
+Successfully Reconciled Records,620,Records matched to exact ground-truth canonical entity
+Unresolved Records,0,Records with similarity score below threshold
+False / Incorrect Matches,0,Records assigned to incorrect canonical entity
+Reconciliation Accuracy (%),100.00%,Percentage of records accurately reconciled
+Similarity Matching Threshold,85.0%,Minimum similarity score required to accept candidate match

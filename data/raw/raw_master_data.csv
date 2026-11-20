@@ -1,0 +1,621 @@
+entity_type,entity_id,raw_name,category_or_region,is_variant
+Product,SKU_1,Product 1,Food & Beverage,False
+Product,SKU_2,Product 2,Personal Care,False
+Product,SKU_3,Product 3,Household,False
+Product,SKU_4,Product 4,Produce,False
+Product,SKU_5,Product 5,Packaged Goods,False
+Product,SKU_6,Product 6,Food & Beverage,False
+Product,SKU_7,Product 7,Personal Care,False
+Product,SKU_8,Product 8,Household,False
+Product,SKU_9,Product 9,Produce,False
+Product,SKU_10,Product 10,Packaged Goods,False
+Product,SKU_11,Product 11,Food & Beverage,False
+Product,SKU_12,Product 12,Personal Care,False
+Product,SKU_13,Product 13,Household,False
+Product,SKU_14,Product 14,Produce,False
+Product,SKU_15,Product 15,Packaged Goods,False
+Product,SKU_16,Product 16,Food & Beverage,False
+Product,SKU_17,Product 17,Personal Care,False
+Product,SKU_18,Product 18,Household,False
+Product,SKU_19,Product 19,Produce,False
+Product,SKU_20,Product 20,Packaged Goods,False
+Product,SKU_21,Product 21,Food & Beverage,False
+Product,SKU_22,Product 22,Personal Care,False
+Product,SKU_23,Product 23,Household,False
+Product,SKU_24,Product 24,Produce,False
+Product,SKU_25,Product 25,Packaged Goods,False
+Product,SKU_26,Product 26,Food & Beverage,False
+Product,SKU_27,Product 27,Personal Care,False
+Product,SKU_28,Product 28,Household,False
+Product,SKU_29,Product 29,Produce,False
+Product,SKU_30,Product 30,Packaged Goods,False
+Product,SKU_31,Product 31,Food & Beverage,False
+Product,SKU_32,Product 32,Personal Care,False
+Product,SKU_33,Product 33,Household,False
+Product,SKU_34,Product 34,Produce,False
+Product,SKU_35,Product 35,Packaged Goods,False
+Product,SKU_36,Product 36,Food & Beverage,False
+Product,SKU_37,Product 37,Personal Care,False
+Product,SKU_38,Product 38,Household,False
+Product,SKU_39,Product 39,Produce,False
+Product,SKU_40,Product 40,Packaged Goods,False
+Product,SKU_41,Product 41,Food & Beverage,False
+Product,SKU_42,Product 42,Personal Care,False
+Product,SKU_43,Product 43,Household,False
+Product,SKU_44,Product 44,Produce,False
+Product,SKU_45,Product 45,Packaged Goods,False
+Product,SKU_46,Product 46,Food & Beverage,False
+Product,SKU_47,Product 47,Personal Care,False
+Product,SKU_48,Product 48,Household,False
+Product,SKU_49,Product 49,Produce,False
+Product,SKU_50,Product 50,Packaged Goods,False
+Supplier,SUP_1,Supplier 1,N/A,False
+Supplier,SUP_2,Supplier 2,N/A,False
+Supplier,SUP_3,Supplier 3,N/A,False
+Supplier,SUP_4,Supplier 4,N/A,False
+Supplier,SUP_5,Supplier 5,N/A,False
+Supplier,SUP_6,Supplier 6,N/A,False
+Supplier,SUP_7,Supplier 7,N/A,False
+Supplier,SUP_8,Supplier 8,N/A,False
+Supplier,SUP_9,Supplier 9,N/A,False
+Supplier,SUP_10,Supplier 10,N/A,False
+Warehouse,WH_1,Warehouse 1,North,False
+Warehouse,WH_2,Warehouse 2,South,False
+Warehouse,WH_3,Warehouse 3,East,False
+Warehouse,WH_4,Warehouse 4,West,False
+Warehouse,WH_5,Warehouse 5,Central,False
+Product,SKU_1,product 1,N/A,True
+Product,SKU_1,PRODUCT 1,N/A,True
+Product,SKU_1,Product 1 ,N/A,True
+Product,SKU_1, Product 1,N/A,True
+Product,SKU_1,Product  1,N/A,True
+Product,SKU_1,Product-1,N/A,True
+Product,SKU_1,Product_1,N/A,True
+Product,SKU_1,Prod 1,N/A,True
+Product,SKU_1,Prod. 1,N/A,True
+Product,SKU_2,product 2,N/A,True
+Product,SKU_2,PRODUCT 2,N/A,True
+Product,SKU_2,Product 2 ,N/A,True
+Product,SKU_2, Product 2,N/A,True
+Product,SKU_2,Product  2,N/A,True
+Product,SKU_2,Product-2,N/A,True
+Product,SKU_2,Product_2,N/A,True
+Product,SKU_2,Prod 2,N/A,True
+Product,SKU_2,Prod. 2,N/A,True
+Product,SKU_3,product 3,N/A,True
+Product,SKU_3,PRODUCT 3,N/A,True
+Product,SKU_3,Product 3 ,N/A,True
+Product,SKU_3, Product 3,N/A,True
+Product,SKU_3,Product  3,N/A,True
+Product,SKU_3,Product-3,N/A,True
+Product,SKU_3,Product_3,N/A,True
+Product,SKU_3,Prod 3,N/A,True
+Product,SKU_3,Prod. 3,N/A,True
+Product,SKU_4,product 4,N/A,True
+Product,SKU_4,PRODUCT 4,N/A,True
+Product,SKU_4,Product 4 ,N/A,True
+Product,SKU_4, Product 4,N/A,True
+Product,SKU_4,Product  4,N/A,True
+Product,SKU_4,Product-4,N/A,True
+Product,SKU_4,Product_4,N/A,True
+Product,SKU_4,Prod 4,N/A,True
+Product,SKU_4,Prod. 4,N/A,True
+Product,SKU_5,product 5,N/A,True
+Product,SKU_5,PRODUCT 5,N/A,True
+Product,SKU_5,Product 5 ,N/A,True
+Product,SKU_5, Product 5,N/A,True
+Product,SKU_5,Product  5,N/A,True
+Product,SKU_5,Product-5,N/A,True
+Product,SKU_5,Product_5,N/A,True
+Product,SKU_5,Prod 5,N/A,True
+Product,SKU_5,Prod. 5,N/A,True
+Product,SKU_6,product 6,N/A,True
+Product,SKU_6,PRODUCT 6,N/A,True
+Product,SKU_6,Product 6 ,N/A,True
+Product,SKU_6, Product 6,N/A,True
+Product,SKU_6,Product  6,N/A,True
+Product,SKU_6,Product-6,N/A,True
+Product,SKU_6,Product_6,N/A,True
+Product,SKU_6,Prod 6,N/A,True
+Product,SKU_6,Prod. 6,N/A,True
+Product,SKU_7,product 7,N/A,True
+Product,SKU_7,PRODUCT 7,N/A,True
+Product,SKU_7,Product 7 ,N/A,True
+Product,SKU_7, Product 7,N/A,True
+Product,SKU_7,Product  7,N/A,True
+Product,SKU_7,Product-7,N/A,True
+Product,SKU_7,Product_7,N/A,True
+Product,SKU_7,Prod 7,N/A,True
+Product,SKU_7,Prod. 7,N/A,True
+Product,SKU_8,product 8,N/A,True
+Product,SKU_8,PRODUCT 8,N/A,True
+Product,SKU_8,Product 8 ,N/A,True
+Product,SKU_8, Product 8,N/A,True
+Product,SKU_8,Product  8,N/A,True
+Product,SKU_8,Product-8,N/A,True
+Product,SKU_8,Product_8,N/A,True
+Product,SKU_8,Prod 8,N/A,True
+Product,SKU_8,Prod. 8,N/A,True
+Product,SKU_9,product 9,N/A,True
+Product,SKU_9,PRODUCT 9,N/A,True
+Product,SKU_9,Product 9 ,N/A,True
+Product,SKU_9, Product 9,N/A,True
+Product,SKU_9,Product  9,N/A,True
+Product,SKU_9,Product-9,N/A,True
+Product,SKU_9,Product_9,N/A,True
+Product,SKU_9,Prod 9,N/A,True
+Product,SKU_9,Prod. 9,N/A,True
+Product,SKU_10,product 10,N/A,True
+Product,SKU_10,PRODUCT 10,N/A,True
+Product,SKU_10,Product 10 ,N/A,True
+Product,SKU_10, Product 10,N/A,True
+Product,SKU_10,Product  10,N/A,True
+Product,SKU_10,Product-10,N/A,True
+Product,SKU_10,Product_10,N/A,True
+Product,SKU_10,Prod 10,N/A,True
+Product,SKU_10,Prod. 10,N/A,True
+Product,SKU_11,product 11,N/A,True
+Product,SKU_11,PRODUCT 11,N/A,True
+Product,SKU_11,Product 11 ,N/A,True
+Product,SKU_11, Product 11,N/A,True
+Product,SKU_11,Product  11,N/A,True
+Product,SKU_11,Product-11,N/A,True
+Product,SKU_11,Product_11,N/A,True
+Product,SKU_11,Prod 11,N/A,True
+Product,SKU_11,Prod. 11,N/A,True
+Product,SKU_12,product 12,N/A,True
+Product,SKU_12,PRODUCT 12,N/A,True
+Product,SKU_12,Product 12 ,N/A,True
+Product,SKU_12, Product 12,N/A,True
+Product,SKU_12,Product  12,N/A,True
+Product,SKU_12,Product-12,N/A,True
+Product,SKU_12,Product_12,N/A,True
+Product,SKU_12,Prod 12,N/A,True
+Product,SKU_12,Prod. 12,N/A,True
+Product,SKU_13,product 13,N/A,True
+Product,SKU_13,PRODUCT 13,N/A,True
+Product,SKU_13,Product 13 ,N/A,True
+Product,SKU_13, Product 13,N/A,True
+Product,SKU_13,Product  13,N/A,True
+Product,SKU_13,Product-13,N/A,True
+Product,SKU_13,Product_13,N/A,True
+Product,SKU_13,Prod 13,N/A,True
+Product,SKU_13,Prod. 13,N/A,True
+Product,SKU_14,product 14,N/A,True
+Product,SKU_14,PRODUCT 14,N/A,True
+Product,SKU_14,Product 14 ,N/A,True
+Product,SKU_14, Product 14,N/A,True
+Product,SKU_14,Product  14,N/A,True
+Product,SKU_14,Product-14,N/A,True
+Product,SKU_14,Product_14,N/A,True
+Product,SKU_14,Prod 14,N/A,True
+Product,SKU_14,Prod. 14,N/A,True
+Product,SKU_15,product 15,N/A,True
+Product,SKU_15,PRODUCT 15,N/A,True
+Product,SKU_15,Product 15 ,N/A,True
+Product,SKU_15, Product 15,N/A,True
+Product,SKU_15,Product  15,N/A,True
+Product,SKU_15,Product-15,N/A,True
+Product,SKU_15,Product_15,N/A,True
+Product,SKU_15,Prod 15,N/A,True
+Product,SKU_15,Prod. 15,N/A,True
+Product,SKU_16,product 16,N/A,True
+Product,SKU_16,PRODUCT 16,N/A,True
+Product,SKU_16,Product 16 ,N/A,True
+Product,SKU_16, Product 16,N/A,True
+Product,SKU_16,Product  16,N/A,True
+Product,SKU_16,Product-16,N/A,True
+Product,SKU_16,Product_16,N/A,True
+Product,SKU_16,Prod 16,N/A,True
+Product,SKU_16,Prod. 16,N/A,True
+Product,SKU_17,product 17,N/A,True
+Product,SKU_17,PRODUCT 17,N/A,True
+Product,SKU_17,Product 17 ,N/A,True
+Product,SKU_17, Product 17,N/A,True
+Product,SKU_17,Product  17,N/A,True
+Product,SKU_17,Product-17,N/A,True
+Product,SKU_17,Product_17,N/A,True
+Product,SKU_17,Prod 17,N/A,True
+Product,SKU_17,Prod. 17,N/A,True
+Product,SKU_18,product 18,N/A,True
+Product,SKU_18,PRODUCT 18,N/A,True
+Product,SKU_18,Product 18 ,N/A,True
+Product,SKU_18, Product 18,N/A,True
+Product,SKU_18,Product  18,N/A,True
+Product,SKU_18,Product-18,N/A,True
+Product,SKU_18,Product_18,N/A,True
+Product,SKU_18,Prod 18,N/A,True
+Product,SKU_18,Prod. 18,N/A,True
+Product,SKU_19,product 19,N/A,True
+Product,SKU_19,PRODUCT 19,N/A,True
+Product,SKU_19,Product 19 ,N/A,True
+Product,SKU_19, Product 19,N/A,True
+Product,SKU_19,Product  19,N/A,True
+Product,SKU_19,Product-19,N/A,True
+Product,SKU_19,Product_19,N/A,True
+Product,SKU_19,Prod 19,N/A,True
+Product,SKU_19,Prod. 19,N/A,True
+Product,SKU_20,product 20,N/A,True
+Product,SKU_20,PRODUCT 20,N/A,True
+Product,SKU_20,Product 20 ,N/A,True
+Product,SKU_20, Product 20,N/A,True
+Product,SKU_20,Product  20,N/A,True
+Product,SKU_20,Product-20,N/A,True
+Product,SKU_20,Product_20,N/A,True
+Product,SKU_20,Prod 20,N/A,True
+Product,SKU_20,Prod. 20,N/A,True
+Product,SKU_21,product 21,N/A,True
+Product,SKU_21,PRODUCT 21,N/A,True
+Product,SKU_21,Product 21 ,N/A,True
+Product,SKU_21, Product 21,N/A,True
+Product,SKU_21,Product  21,N/A,True
+Product,SKU_21,Product-21,N/A,True
+Product,SKU_21,Product_21,N/A,True
+Product,SKU_21,Prod 21,N/A,True
+Product,SKU_21,Prod. 21,N/A,True
+Product,SKU_22,product 22,N/A,True
+Product,SKU_22,PRODUCT 22,N/A,True
+Product,SKU_22,Product 22 ,N/A,True
+Product,SKU_22, Product 22,N/A,True
+Product,SKU_22,Product  22,N/A,True
+Product,SKU_22,Product-22,N/A,True
+Product,SKU_22,Product_22,N/A,True
+Product,SKU_22,Prod 22,N/A,True
+Product,SKU_22,Prod. 22,N/A,True
+Product,SKU_23,product 23,N/A,True
+Product,SKU_23,PRODUCT 23,N/A,True
+Product,SKU_23,Product 23 ,N/A,True
+Product,SKU_23, Product 23,N/A,True
+Product,SKU_23,Product  23,N/A,True
+Product,SKU_23,Product-23,N/A,True
+Product,SKU_23,Product_23,N/A,True
+Product,SKU_23,Prod 23,N/A,True
+Product,SKU_23,Prod. 23,N/A,True
+Product,SKU_24,product 24,N/A,True
+Product,SKU_24,PRODUCT 24,N/A,True
+Product,SKU_24,Product 24 ,N/A,True
+Product,SKU_24, Product 24,N/A,True
+Product,SKU_24,Product  24,N/A,True
+Product,SKU_24,Product-24,N/A,True
+Product,SKU_24,Product_24,N/A,True
+Product,SKU_24,Prod 24,N/A,True
+Product,SKU_24,Prod. 24,N/A,True
+Product,SKU_25,product 25,N/A,True
+Product,SKU_25,PRODUCT 25,N/A,True
+Product,SKU_25,Product 25 ,N/A,True
+Product,SKU_25, Product 25,N/A,True
+Product,SKU_25,Product  25,N/A,True
+Product,SKU_25,Product-25,N/A,True
+Product,SKU_25,Product_25,N/A,True
+Product,SKU_25,Prod 25,N/A,True
+Product,SKU_25,Prod. 25,N/A,True
+Product,SKU_26,product 26,N/A,True
+Product,SKU_26,PRODUCT 26,N/A,True
+Product,SKU_26,Product 26 ,N/A,True
+Product,SKU_26, Product 26,N/A,True
+Product,SKU_26,Product  26,N/A,True
+Product,SKU_26,Product-26,N/A,True
+Product,SKU_26,Product_26,N/A,True
+Product,SKU_26,Prod 26,N/A,True
+Product,SKU_26,Prod. 26,N/A,True
+Product,SKU_27,product 27,N/A,True
+Product,SKU_27,PRODUCT 27,N/A,True
+Product,SKU_27,Product 27 ,N/A,True
+Product,SKU_27, Product 27,N/A,True
+Product,SKU_27,Product  27,N/A,True
+Product,SKU_27,Product-27,N/A,True
+Product,SKU_27,Product_27,N/A,True
+Product,SKU_27,Prod 27,N/A,True
+Product,SKU_27,Prod. 27,N/A,True
+Product,SKU_28,product 28,N/A,True
+Product,SKU_28,PRODUCT 28,N/A,True
+Product,SKU_28,Product 28 ,N/A,True
+Product,SKU_28, Product 28,N/A,True
+Product,SKU_28,Product  28,N/A,True
+Product,SKU_28,Product-28,N/A,True
+Product,SKU_28,Product_28,N/A,True
+Product,SKU_28,Prod 28,N/A,True
+Product,SKU_28,Prod. 28,N/A,True
+Product,SKU_29,product 29,N/A,True
+Product,SKU_29,PRODUCT 29,N/A,True
+Product,SKU_29,Product 29 ,N/A,True
+Product,SKU_29, Product 29,N/A,True
+Product,SKU_29,Product  29,N/A,True
+Product,SKU_29,Product-29,N/A,True
+Product,SKU_29,Product_29,N/A,True
+Product,SKU_29,Prod 29,N/A,True
+Product,SKU_29,Prod. 29,N/A,True
+Product,SKU_30,product 30,N/A,True
+Product,SKU_30,PRODUCT 30,N/A,True
+Product,SKU_30,Product 30 ,N/A,True
+Product,SKU_30, Product 30,N/A,True
+Product,SKU_30,Product  30,N/A,True
+Product,SKU_30,Product-30,N/A,True
+Product,SKU_30,Product_30,N/A,True
+Product,SKU_30,Prod 30,N/A,True
+Product,SKU_30,Prod. 30,N/A,True
+Product,SKU_31,product 31,N/A,True
+Product,SKU_31,PRODUCT 31,N/A,True
+Product,SKU_31,Product 31 ,N/A,True
+Product,SKU_31, Product 31,N/A,True
+Product,SKU_31,Product  31,N/A,True
+Product,SKU_31,Product-31,N/A,True
+Product,SKU_31,Product_31,N/A,True
+Product,SKU_31,Prod 31,N/A,True
+Product,SKU_31,Prod. 31,N/A,True
+Product,SKU_32,product 32,N/A,True
+Product,SKU_32,PRODUCT 32,N/A,True
+Product,SKU_32,Product 32 ,N/A,True
+Product,SKU_32, Product 32,N/A,True
+Product,SKU_32,Product  32,N/A,True
+Product,SKU_32,Product-32,N/A,True
+Product,SKU_32,Product_32,N/A,True
+Product,SKU_32,Prod 32,N/A,True
+Product,SKU_32,Prod. 32,N/A,True
+Product,SKU_33,product 33,N/A,True
+Product,SKU_33,PRODUCT 33,N/A,True
+Product,SKU_33,Product 33 ,N/A,True
+Product,SKU_33, Product 33,N/A,True
+Product,SKU_33,Product  33,N/A,True
+Product,SKU_33,Product-33,N/A,True
+Product,SKU_33,Product_33,N/A,True
+Product,SKU_33,Prod 33,N/A,True
+Product,SKU_33,Prod. 33,N/A,True
+Product,SKU_34,product 34,N/A,True
+Product,SKU_34,PRODUCT 34,N/A,True
+Product,SKU_34,Product 34 ,N/A,True
+Product,SKU_34, Product 34,N/A,True
+Product,SKU_34,Product  34,N/A,True
+Product,SKU_34,Product-34,N/A,True
+Product,SKU_34,Product_34,N/A,True
+Product,SKU_34,Prod 34,N/A,True
+Product,SKU_34,Prod. 34,N/A,True
+Product,SKU_35,product 35,N/A,True
+Product,SKU_35,PRODUCT 35,N/A,True
+Product,SKU_35,Product 35 ,N/A,True
+Product,SKU_35, Product 35,N/A,True
+Product,SKU_35,Product  35,N/A,True
+Product,SKU_35,Product-35,N/A,True
+Product,SKU_35,Product_35,N/A,True
+Product,SKU_35,Prod 35,N/A,True
+Product,SKU_35,Prod. 35,N/A,True
+Product,SKU_36,product 36,N/A,True
+Product,SKU_36,PRODUCT 36,N/A,True
+Product,SKU_36,Product 36 ,N/A,True
+Product,SKU_36, Product 36,N/A,True
+Product,SKU_36,Product  36,N/A,True
+Product,SKU_36,Product-36,N/A,True
+Product,SKU_36,Product_36,N/A,True
+Product,SKU_36,Prod 36,N/A,True
+Product,SKU_36,Prod. 36,N/A,True
+Product,SKU_37,product 37,N/A,True
+Product,SKU_37,PRODUCT 37,N/A,True
+Product,SKU_37,Product 37 ,N/A,True
+Product,SKU_37, Product 37,N/A,True
+Product,SKU_37,Product  37,N/A,True
+Product,SKU_37,Product-37,N/A,True
+Product,SKU_37,Product_37,N/A,True
+Product,SKU_37,Prod 37,N/A,True
+Product,SKU_37,Prod. 37,N/A,True
+Product,SKU_38,product 38,N/A,True
+Product,SKU_38,PRODUCT 38,N/A,True
+Product,SKU_38,Product 38 ,N/A,True
+Product,SKU_38, Product 38,N/A,True
+Product,SKU_38,Product  38,N/A,True
+Product,SKU_38,Product-38,N/A,True
+Product,SKU_38,Product_38,N/A,True
+Product,SKU_38,Prod 38,N/A,True
+Product,SKU_38,Prod. 38,N/A,True
+Product,SKU_39,product 39,N/A,True
+Product,SKU_39,PRODUCT 39,N/A,True
+Product,SKU_39,Product 39 ,N/A,True
+Product,SKU_39, Product 39,N/A,True
+Product,SKU_39,Product  39,N/A,True
+Product,SKU_39,Product-39,N/A,True
+Product,SKU_39,Product_39,N/A,True
+Product,SKU_39,Prod 39,N/A,True
+Product,SKU_39,Prod. 39,N/A,True
+Product,SKU_40,product 40,N/A,True
+Product,SKU_40,PRODUCT 40,N/A,True
+Product,SKU_40,Product 40 ,N/A,True
+Product,SKU_40, Product 40,N/A,True
+Product,SKU_40,Product  40,N/A,True
+Product,SKU_40,Product-40,N/A,True
+Product,SKU_40,Product_40,N/A,True
+Product,SKU_40,Prod 40,N/A,True
+Product,SKU_40,Prod. 40,N/A,True
+Product,SKU_41,product 41,N/A,True
+Product,SKU_41,PRODUCT 41,N/A,True
+Product,SKU_41,Product 41 ,N/A,True
+Product,SKU_41, Product 41,N/A,True
+Product,SKU_41,Product  41,N/A,True
+Product,SKU_41,Product-41,N/A,True
+Product,SKU_41,Product_41,N/A,True
+Product,SKU_41,Prod 41,N/A,True
+Product,SKU_41,Prod. 41,N/A,True
+Product,SKU_42,product 42,N/A,True
+Product,SKU_42,PRODUCT 42,N/A,True
+Product,SKU_42,Product 42 ,N/A,True
+Product,SKU_42, Product 42,N/A,True
+Product,SKU_42,Product  42,N/A,True
+Product,SKU_42,Product-42,N/A,True
+Product,SKU_42,Product_42,N/A,True
+Product,SKU_42,Prod 42,N/A,True
+Product,SKU_42,Prod. 42,N/A,True
+Product,SKU_43,product 43,N/A,True
+Product,SKU_43,PRODUCT 43,N/A,True
+Product,SKU_43,Product 43 ,N/A,True
+Product,SKU_43, Product 43,N/A,True
+Product,SKU_43,Product  43,N/A,True
+Product,SKU_43,Product-43,N/A,True
+Product,SKU_43,Product_43,N/A,True
+Product,SKU_43,Prod 43,N/A,True
+Product,SKU_43,Prod. 43,N/A,True
+Product,SKU_44,product 44,N/A,True
+Product,SKU_44,PRODUCT 44,N/A,True
+Product,SKU_44,Product 44 ,N/A,True
+Product,SKU_44, Product 44,N/A,True
+Product,SKU_44,Product  44,N/A,True
+Product,SKU_44,Product-44,N/A,True
+Product,SKU_44,Product_44,N/A,True
+Product,SKU_44,Prod 44,N/A,True
+Product,SKU_44,Prod. 44,N/A,True
+Product,SKU_45,product 45,N/A,True
+Product,SKU_45,PRODUCT 45,N/A,True
+Product,SKU_45,Product 45 ,N/A,True
+Product,SKU_45, Product 45,N/A,True
+Product,SKU_45,Product  45,N/A,True
+Product,SKU_45,Product-45,N/A,True
+Product,SKU_45,Product_45,N/A,True
+Product,SKU_45,Prod 45,N/A,True
+Product,SKU_45,Prod. 45,N/A,True
+Product,SKU_46,product 46,N/A,True
+Product,SKU_46,PRODUCT 46,N/A,True
+Product,SKU_46,Product 46 ,N/A,True
+Product,SKU_46, Product 46,N/A,True
+Product,SKU_46,Product  46,N/A,True
+Product,SKU_46,Product-46,N/A,True
+Product,SKU_46,Product_46,N/A,True
+Product,SKU_46,Prod 46,N/A,True
+Product,SKU_46,Prod. 46,N/A,True
+Product,SKU_47,product 47,N/A,True
+Product,SKU_47,PRODUCT 47,N/A,True
+Product,SKU_47,Product 47 ,N/A,True
+Product,SKU_47, Product 47,N/A,True
+Product,SKU_47,Product  47,N/A,True
+Product,SKU_47,Product-47,N/A,True
+Product,SKU_47,Product_47,N/A,True
+Product,SKU_47,Prod 47,N/A,True
+Product,SKU_47,Prod. 47,N/A,True
+Product,SKU_48,product 48,N/A,True
+Product,SKU_48,PRODUCT 48,N/A,True
+Product,SKU_48,Product 48 ,N/A,True
+Product,SKU_48, Product 48,N/A,True
+Product,SKU_48,Product  48,N/A,True
+Product,SKU_48,Product-48,N/A,True
+Product,SKU_48,Product_48,N/A,True
+Product,SKU_48,Prod 48,N/A,True
+Product,SKU_48,Prod. 48,N/A,True
+Product,SKU_49,product 49,N/A,True
+Product,SKU_49,PRODUCT 49,N/A,True
+Product,SKU_49,Product 49 ,N/A,True
+Product,SKU_49, Product 49,N/A,True
+Product,SKU_49,Product  49,N/A,True
+Product,SKU_49,Product-49,N/A,True
+Product,SKU_49,Product_49,N/A,True
+Product,SKU_49,Prod 49,N/A,True
+Product,SKU_49,Prod. 49,N/A,True
+Product,SKU_50,product 50,N/A,True
+Product,SKU_50,PRODUCT 50,N/A,True
+Product,SKU_50,Product 50 ,N/A,True
+Product,SKU_50, Product 50,N/A,True
+Product,SKU_50,Product  50,N/A,True
+Product,SKU_50,Product-50,N/A,True
+Product,SKU_50,Product_50,N/A,True
+Product,SKU_50,Prod 50,N/A,True
+Product,SKU_50,Prod. 50,N/A,True
+Supplier,SUP_1,supplier 1,N/A,True
+Supplier,SUP_1,SUPPLIER 1,N/A,True
+Supplier,SUP_1,Supplier 1 ,N/A,True
+Supplier,SUP_1,Supplier-1,N/A,True
+Supplier,SUP_1,Supplier_1,N/A,True
+Supplier,SUP_1,Supp 1,N/A,True
+Supplier,SUP_1,Supp. 1,N/A,True
+Supplier,SUP_2,supplier 2,N/A,True
+Supplier,SUP_2,SUPPLIER 2,N/A,True
+Supplier,SUP_2,Supplier 2 ,N/A,True
+Supplier,SUP_2,Supplier-2,N/A,True
+Supplier,SUP_2,Supplier_2,N/A,True
+Supplier,SUP_2,Supp 2,N/A,True
+Supplier,SUP_2,Supp. 2,N/A,True
+Supplier,SUP_3,supplier 3,N/A,True
+Supplier,SUP_3,SUPPLIER 3,N/A,True
+Supplier,SUP_3,Supplier 3 ,N/A,True
+Supplier,SUP_3,Supplier-3,N/A,True
+Supplier,SUP_3,Supplier_3,N/A,True
+Supplier,SUP_3,Supp 3,N/A,True
+Supplier,SUP_3,Supp. 3,N/A,True
+Supplier,SUP_4,supplier 4,N/A,True
+Supplier,SUP_4,SUPPLIER 4,N/A,True
+Supplier,SUP_4,Supplier 4 ,N/A,True
+Supplier,SUP_4,Supplier-4,N/A,True
+Supplier,SUP_4,Supplier_4,N/A,True
+Supplier,SUP_4,Supp 4,N/A,True
+Supplier,SUP_4,Supp. 4,N/A,True
+Supplier,SUP_5,supplier 5,N/A,True
+Supplier,SUP_5,SUPPLIER 5,N/A,True
+Supplier,SUP_5,Supplier 5 ,N/A,True
+Supplier,SUP_5,Supplier-5,N/A,True
+Supplier,SUP_5,Supplier_5,N/A,True
+Supplier,SUP_5,Supp 5,N/A,True
+Supplier,SUP_5,Supp. 5,N/A,True
+Supplier,SUP_6,supplier 6,N/A,True
+Supplier,SUP_6,SUPPLIER 6,N/A,True
+Supplier,SUP_6,Supplier 6 ,N/A,True
+Supplier,SUP_6,Supplier-6,N/A,True
+Supplier,SUP_6,Supplier_6,N/A,True
+Supplier,SUP_6,Supp 6,N/A,True
+Supplier,SUP_6,Supp. 6,N/A,True
+Supplier,SUP_7,supplier 7,N/A,True
+Supplier,SUP_7,SUPPLIER 7,N/A,True
+Supplier,SUP_7,Supplier 7 ,N/A,True
+Supplier,SUP_7,Supplier-7,N/A,True
+Supplier,SUP_7,Supplier_7,N/A,True
+Supplier,SUP_7,Supp 7,N/A,True
+Supplier,SUP_7,Supp. 7,N/A,True
+Supplier,SUP_8,supplier 8,N/A,True
+Supplier,SUP_8,SUPPLIER 8,N/A,True
+Supplier,SUP_8,Supplier 8 ,N/A,True
+Supplier,SUP_8,Supplier-8,N/A,True
+Supplier,SUP_8,Supplier_8,N/A,True
+Supplier,SUP_8,Supp 8,N/A,True
+Supplier,SUP_8,Supp. 8,N/A,True
+Supplier,SUP_9,supplier 9,N/A,True
+Supplier,SUP_9,SUPPLIER 9,N/A,True
+Supplier,SUP_9,Supplier 9 ,N/A,True
+Supplier,SUP_9,Supplier-9,N/A,True
+Supplier,SUP_9,Supplier_9,N/A,True
+Supplier,SUP_9,Supp 9,N/A,True
+Supplier,SUP_9,Supp. 9,N/A,True
+Supplier,SUP_10,supplier 10,N/A,True
+Supplier,SUP_10,SUPPLIER 10,N/A,True
+Supplier,SUP_10,Supplier 10 ,N/A,True
+Supplier,SUP_10,Supplier-10,N/A,True
+Supplier,SUP_10,Supplier_10,N/A,True
+Supplier,SUP_10,Supp 10,N/A,True
+Supplier,SUP_10,Supp. 10,N/A,True
+Warehouse,WH_1,warehouse 1,N/A,True
+Warehouse,WH_1,WAREHOUSE 1,N/A,True
+Warehouse,WH_1,Warehouse 1 ,N/A,True
+Warehouse,WH_1,Warehouse-1,N/A,True
+Warehouse,WH_1,WH 1,N/A,True
+Warehouse,WH_1,WH-1,N/A,True
+Warehouse,WH_1,WH_1,N/A,True
+Warehouse,WH_2,warehouse 2,N/A,True
+Warehouse,WH_2,WAREHOUSE 2,N/A,True
+Warehouse,WH_2,Warehouse 2 ,N/A,True
+Warehouse,WH_2,Warehouse-2,N/A,True
+Warehouse,WH_2,WH 2,N/A,True
+Warehouse,WH_2,WH-2,N/A,True
+Warehouse,WH_2,WH_2,N/A,True
+Warehouse,WH_3,warehouse 3,N/A,True
+Warehouse,WH_3,WAREHOUSE 3,N/A,True
+Warehouse,WH_3,Warehouse 3 ,N/A,True
+Warehouse,WH_3,Warehouse-3,N/A,True
+Warehouse,WH_3,WH 3,N/A,True
+Warehouse,WH_3,WH-3,N/A,True
+Warehouse,WH_3,WH_3,N/A,True
+Warehouse,WH_4,warehouse 4,N/A,True
+Warehouse,WH_4,WAREHOUSE 4,N/A,True
+Warehouse,WH_4,Warehouse 4 ,N/A,True
+Warehouse,WH_4,Warehouse-4,N/A,True
+Warehouse,WH_4,WH 4,N/A,True
+Warehouse,WH_4,WH-4,N/A,True
+Warehouse,WH_4,WH_4,N/A,True
+Warehouse,WH_5,warehouse 5,N/A,True
+Warehouse,WH_5,WAREHOUSE 5,N/A,True
+Warehouse,WH_5,Warehouse 5 ,N/A,True
+Warehouse,WH_5,Warehouse-5,N/A,True
+Warehouse,WH_5,WH 5,N/A,True
+Warehouse,WH_5,WH-5,N/A,True
+Warehouse,WH_5,WH_5,N/A,True
